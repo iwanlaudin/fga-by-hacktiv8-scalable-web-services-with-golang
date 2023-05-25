@@ -1,1 +1,1 @@
-# fga-by-hacktiv8-scalable-web-services-with-golang
+# Frash Graduate Academy by Hacktiv8: Scalable Web Services with Golang
